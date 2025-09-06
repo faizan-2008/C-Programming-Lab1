@@ -2,17 +2,24 @@
 the repository contains practical work of coding from lab
 # Project 1
 ## Create and Format Markdown Elements objectives
-My **name** is *Faizan*.
-my name is not ~~Ahmed~~
-```bash
-git status
-git add
-git commit -m "Example commit"
+My **name** is Faizan.
 
-## my to do list
-complete all task at git hub
-apply additional features in task #6
-write documentation
+*I study in FAST*
+
+~~I am a BSCS student~~
+
+`git.status`
+
+## to do list 
+- [x] done with task#6 
+- [ ] create repository
+- [x] add all additional features
+      
+
+
+
+
+
 
 
 
